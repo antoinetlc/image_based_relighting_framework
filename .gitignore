@@ -4,6 +4,9 @@
 *.o
 *.obj
 
+# Qt Creator
+*.pro.user
+
 # Precompiled Headers
 *.gch
 *.pch
