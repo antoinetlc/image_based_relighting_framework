@@ -1,16 +1,17 @@
 # Image-Based Relighting Framework
 
-Image-Based Relighting Framework is an open source GUI for three types of image-based relighting algorithms using data captured with either a light stage, a free-form acquisition or a regular room.
-It was implemented during my MSc thesis at Imperial College London in the Summer 2014. It is distributed under the LGPL license.
+_Image-Based Relighting Framework_ is an open source GUI that implements three types of image-based relighting algorithms using reflectance data captured with either a light stage, a free-form acquisition or a regular room. It was implemented during my MSc thesis at Imperial College London in the Summer 2014. It is distributed under the LGPL license.
+
+
 For more information on image-based relighting or on this framework please visit :
 
 * http://www.doc.ic.ac.uk/~ast13/relighting.html.
 * https://www.doc.ic.ac.uk/~ast13/pdf/MSc_Antoine_Toisoul.pdf
 
 The framework implements the following papers : 
-* Acquiring the Reflectance Field of a Human Face, Paul Debevec, Tim Hawkins, Chris Tchou, Haarm-Pieter Duiker, Westley Sarokin, and Mark Sagar, SIGGRAPH 2000 Conference Proceedings
-* The free-form light stage, Vincent Masselus, Philip Dutré, Frederik Anrys In Proc. EGWR, EGRW ’02, 247–256. 
-* Image-Based Relighting using Room Lighting Basis, Antoine Toisoul, Abhijeet Ghosh, CVMP 2016
+* _Acquiring the Reflectance Field of a Human Face, Paul Debevec_, Tim Hawkins, Chris Tchou, Haarm-Pieter Duiker, Westley Sarokin, and Mark Sagar, SIGGRAPH 2000 Conference Proceedings
+* _The free-form light stage_, Vincent Masselus, Philip Dutré, Frederik Anrys In Proc. EGWR, EGRW ’02, 247–256. 
+* _Image-Based Relighting using Room Lighting Basis_, Antoine Toisoul, Abhijeet Ghosh, CVMP 2016
 
 ###Version
 Version 1.0
@@ -30,7 +31,7 @@ The light stage data can be obtained on USC ICT website :
 
 * http://gl.ict.usc.edu/Data/LightStage/
 
-Please read appendix A of my (MSc thesis)[https://www.doc.ic.ac.uk/~ast13/pdf/MSc_Antoine_Toisoul.pdf] for more information on how to setup the software.
+Please read appendix A of my [MSc thesis](https://www.doc.ic.ac.uk/~ast13/pdf/MSc_Antoine_Toisoul.pdf) for more information on how to setup the software.
 
 ####Environment mapping
 For the environment mapping to work you will have to download the **latitude longitude maps** of the environment.
