@@ -1,2 +1,4 @@
 # IBR_framework
-Framework that implements several image-based relighting algorithms
+
+GUI for several image-based relighting algorithms using light stage data, a free-form acquisition or a room lighting basis.
+More information is available here : http://www.doc.ic.ac.uk/~ast13/relighting.html.
