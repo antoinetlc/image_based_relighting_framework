@@ -48,6 +48,7 @@ Create a folder called "environment_maps" in the directory where the program is 
 | Uffizi Gallery  | uffizi  |
 | St Peter's Basilica | stpeters_probe  |
 | Pisa Courtyard | pisa_courtyard  |
+| Eucalyptus Grove | eucalyptus_grove|
 
 ###License
 
