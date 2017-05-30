@@ -13,10 +13,10 @@ The framework implements the following papers :
 * _The free-form light stage_, Vincent Masselus, Philip Dutré, Frederik Anrys In Proc. EGWR, EGRW ’02, 247–256. 
 * _Image-Based Relighting using Room Lighting Basis_, Antoine Toisoul, Abhijeet Ghosh, CVMP 2016
 
-###Version
+### Version
 Version 1.0
 
-###Compilation
+### Compilation
 This program has been compiled and tested both on Windows, Linux and MacOS environments.
 It requires the following libraries in order to compile :
 
@@ -25,7 +25,7 @@ It requires the following libraries in order to compile :
 
 A "IBR_Framework.pro" file is provided for compilation with QtCreator IDE. Please update the libraries paths to match your installation.
 
-###Installation
+### Installation
 
 The light stage data can be obtained on USC ICT website :
 
@@ -33,7 +33,7 @@ The light stage data can be obtained on USC ICT website :
 
 Please read appendix A of my [MSc thesis](https://www.doc.ic.ac.uk/~ast13/pdf/MSc_Antoine_Toisoul.pdf) for more information on how to setup the software.
 
-####Environment mapping
+#### Environment mapping
 For the environment mapping to work you will have to download the **latitude longitude maps** of the environment.
 Some are available at the following links :
 
@@ -50,7 +50,7 @@ Create a folder called "environment_maps" in the directory where the program is 
 | Pisa Courtyard | pisa_courtyard  |
 | Eucalyptus Grove | eucalyptus_grove|
 
-###License
+### License
 
 Image-Based Relighting framework. Author :  Antoine TOISOUL LE CANN. Copyright © 2016 Antoine TOISOUL LE CANN, Imperial College London. All rights reserved.
 
