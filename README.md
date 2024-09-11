@@ -5,8 +5,7 @@ _Image-Based Relighting Framework_ is an open source GUI that implements three t
 
 For more information on image-based relighting or on this framework please visit :
 
-* http://www.doc.ic.ac.uk/~ast13/relighting.html.
-* https://www.doc.ic.ac.uk/~ast13/pdf/MSc_Antoine_Toisoul.pdf
+* [http://www.doc.ic.ac.uk/~ast13/relighting.html](https://www.antoinetlc.com/projects/image-based-relighting-using-room-lighting-basis).
 
 The framework implements the following papers : 
 * _Acquiring the Reflectance Field of a Human Face, Paul Debevec_, Tim Hawkins, Chris Tchou, Haarm-Pieter Duiker, Westley Sarokin, and Mark Sagar, SIGGRAPH 2000 Conference Proceedings
